@@ -1,0 +1,3 @@
+/Users/yoko/Documents/School/CSCD240/Lab 7/FilesAndArrays/lab8-files_dynamic_arrays/cmake-build-debug/CMakeFiles/lab8_files_dynamic_arrays.dir
+/Users/yoko/Documents/School/CSCD240/Lab 7/FilesAndArrays/lab8-files_dynamic_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yoko/Documents/School/CSCD240/Lab 7/FilesAndArrays/lab8-files_dynamic_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
